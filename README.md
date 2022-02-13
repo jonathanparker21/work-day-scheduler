@@ -10,8 +10,8 @@ Our task this week was to create a calendar app using Moment.JS and jQuery that 
 
 # Link to Deployed App
 
+https://jonathanparker21.github.io/work-day-scheduler/
 
+# Credits 2022
 
-# Credits
-
-Jonathan Parker 2021
+Jonathan Parker
